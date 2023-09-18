@@ -1,0 +1,16 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap");
+
+body {
+  background-image: url('https://i0.wp.com/www.csscodelab.com/wp-content/uploads/2020/03/html-gradient-background-css.png?w=993&ssl=1');
+  background-color: navy;
+  text-align: center;
+}
+
+div {
+  font-family: "Nunito", sans-serif;
+  text-align: center;
+}
+
+#btnFacts {
+    background-color: red;
+}
