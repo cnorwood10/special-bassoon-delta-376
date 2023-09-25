@@ -6,11 +6,16 @@ body {
   text-align: center;
 }
 
+a{
+  text-align: center;
+}
+
 div {
-  font-family: "Nunito", sans-serif;
+  font-family: "Copperplate", fantasy;
   text-align: center;
 }
 
 #btnFacts {
     background-color: red;
 }
+
